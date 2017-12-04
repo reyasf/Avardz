@@ -1,0 +1,2 @@
+# Avardz
+Loyalty application
